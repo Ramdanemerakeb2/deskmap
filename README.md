@@ -1,12 +1,8 @@
-# DeskMap v1.0
+# DeskMap v1.2
 
 Desktop version of map browers such as Google Maps
 
-This software was developped as an assignment during the 2019/20 university year at the CERI, Avignon University (France), by the following students:
-* Ghemmour Amar 
-* Merakeb Ramdane
-* Lakhdari Zine Eddine 
-* Harkouken Idir
+This software was developped as an assignment during the 2019/20 university year at the CERI, Avignon University (France).
 
 # Organisation du code source
 >Les classes principales:
